@@ -6,5 +6,5 @@ known as One attribute called 'address'.
 
 QUESTION 2
 
-CREATE VIEW TicketID as SELECT Genre
+CREATE VIEW [TicketID] as SELECT Genre
 FROM movies WHERE month = "December";
